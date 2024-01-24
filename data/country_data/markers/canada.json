@@ -1,0 +1,57 @@
+[
+  {
+    "name": "Vancouver",
+    "coordinates": ["49.24966", "-123.11934"],
+    "type": "city"
+  },
+  {
+    "name": "Calgary",
+    "coordinates": ["51.05011", "-114.08529"],
+    "type": "city"
+  },
+  {
+    "name": "Edmonton",
+    "coordinates": ["53.54439", "-113.49093"],
+    "type": "city"
+  },
+  {
+    "name": "Saskatoon",
+    "coordinates": ["52.13321", "-106.67004"],
+    "type": "city"
+  },
+  {
+    "name": "Winnipeg",
+    "coordinates": ["49.89514", "-97.13839"],
+    "type": "city"
+  },
+  {
+    "name": "Toronto",
+    "coordinates": ["43.65107", "-79.34702"],
+    "type": "city"
+  },
+  {
+    "name": "Ottawa",
+    "coordinates": ["45.42153", "-75.69356"],
+    "type": "city"
+  },
+  {
+    "name": "Quebec",
+    "coordinates": ["46.81387", "-71.20874"],
+    "type": "city"
+  },
+  {
+    "name": "Montreal",
+    "coordinates": ["45.50884", "-73.58781"],
+    "type": "city"
+  },
+  {
+    "name": "Halifax",
+    "coordinates": ["44.64533", "-63.57239"],
+    "type": "city"
+  },
+  {
+    "name": "St. John's",
+    "coordinates": ["47.56494", "-52.70931"],
+    "type": "city"
+  }
+]

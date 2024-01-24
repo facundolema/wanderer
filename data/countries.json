@@ -1,0 +1,12 @@
+{
+  "south_america" : ["Argentina","Brazil","Uruguay","Chile"],
+  "north_america" : ["Canada","United States"],
+  "oceania": ["Australia","New Zealand"],
+  "europe" : [
+    "Andorra","Austria","Belgium","Croatia","Czechia","Denmark","Estonia",
+    "Finland","France","Germany","Greece","Hungary","Iceland","Ireland",
+    "Italy","Latvia","Liechtenstein","Lithuania","Luxembourg","Monaco",
+    "Netherlands","Norway","Poland","Portugal","Romania","Russia","San Marino",
+    "Serbia","Slovakia","Slovenia","Spain","Sweden","Switzerland"
+  ]
+}

@@ -1,0 +1,80 @@
+[
+  { "name": "Vienna", "coordinates": ["48.20849", "16.37208"], "type": "city" },
+  {
+    "name": "Salzburg",
+    "coordinates": ["47.79941", "13.04399"],
+    "type": "city"
+  },
+  {
+    "name": "Innsbruck",
+    "coordinates": ["47.26266", "11.39454"],
+    "type": "city"
+  },
+  { "name": "Graz", "coordinates": ["47.06667", "15.45"], "type": "city" },
+  { "name": "Linz", "coordinates": ["48.30639", "14.28611"], "type": "city" },
+  { "name": "Hallstatt", "coordinates": ["47.562", "13.649"], "type": "city" },
+  {
+    "name": "Bad Gastein",
+    "coordinates": ["47.1", "13.016667"],
+    "type": "city"
+  },
+  {
+    "name": "W\u00f6rthersee",
+    "coordinates": ["46.625", "14.15"],
+    "type": "city"
+  },
+  {
+    "name": "Zell am See",
+    "coordinates": ["47.32306", "12.79839"],
+    "type": "city"
+  },
+  {
+    "name": "Salzkammergut",
+    "coordinates": ["47.8794", "13.5183"],
+    "type": "city"
+  },
+  { "name": "Bregenz", "coordinates": ["47.50311", "9.7471"], "type": "city" },
+  {
+    "name": "Mostviertel",
+    "coordinates": ["48.1770", "15.6161"],
+    "type": "region"
+  },
+  { "name": "Wachau", "coordinates": ["48.364444", "15.434167"], "type": "city" },
+  {
+    "name": "Schladming",
+    "coordinates": ["47.39289", "13.68699"],
+    "type": "city"
+  },
+  {
+    "name": "Kitzbuhel",
+    "coordinates": ["47.4492", "12.3925"],
+    "type": "city"
+  },
+  {
+    "name": "Zillertal Alps",
+    "coordinates": ["47.166667", "11.833333"],
+    "type": "natural"
+  },
+  {
+    "name": "Krimml Waterfalls",
+    "coordinates": ["47.233333", "12.166667"],
+    "type": "natural"
+  },
+  {
+    "name": "Hoher Dachstein",
+    "coordinates": ["47.483333", "13.633333"],
+    "type": "natural"
+  },
+  { "name": "Vorarlberg", "coordinates": ["47.5", "9.75"], "type": "region" },
+  {
+    "name": "Tyrol",
+    "coordinates": ["47.266667", "11.383333"],
+    "type": "region"
+  },
+  {
+    "name": "National Park Donau Auen",
+    "coordinates": ["48.2", "16.7"],
+    "type": "natural"
+  },
+  { "name": "Vienna Woods", "coordinates": ["48.2", "16.3"], "type": "natural" }
+]
